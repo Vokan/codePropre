@@ -17,10 +17,10 @@ public class calcul {
 	}
 	
 	/**
-	 * 
+	 * Méthode qui rétourne la différance entre a et b.
 	 * @param a
 	 * @param b
-	 * @return
+	 * @return a-b
 	 */
 	public int get2(int a, int b){
 		return a-b;
